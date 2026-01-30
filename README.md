@@ -9,7 +9,9 @@ Auto generator of opencode configuration based on capabilities of currently avai
 Use `uv` for virtual environment and dependency management:
 ```bash
 uv venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+source .venv/bin/activate
+# Windows:
+.venv\Scripts\activate
 uv pip install -r requirements.txt
 ```
 
