@@ -1,3 +1,5 @@
+# This repositry is now considered obsolete, moved to https://github.com/TriDefender/OpenCorde for further usage.
+
 # AI Horde Client
 
 A lightweight Python client for OpenCode, providing AI assisted coding through Horde's distributed AI network.
